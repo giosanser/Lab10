@@ -38,24 +38,24 @@
       "image": "strawberry-sprinkle.svg"
     },
     {
-      "name": "Stupendous Strawberry 3",
+      "name": "Black Raspberry Thunder",
       "calories": 425,
       "type": "frozen yogurt",
       "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "Fresh milk",
+        "raspberry marble",
+        "white chocolate flavour"
       ],
       "image": "ice-cream-xtra1.svg"
     },
     {
-      "name": "Stupendous Strawberry 4",
+      "name": "Coconut",
       "calories": 425,
       "type": "sorbet",
       "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "skim milk powder",
+        "Locust bean gum",
+        "Toasted coconut"
       ],
       "image": "ice-cream-xtra2.svg"
     }
